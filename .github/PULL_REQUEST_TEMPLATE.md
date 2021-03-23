@@ -26,7 +26,6 @@
 - ...
 
 ## Issues Closed or Referenced
-<!-- This will automatically close the issue when the PR closes. -->
 - Closes #issue_number
 <!-- this references the issue but does not close with PR. -->
 - References #issue_number
