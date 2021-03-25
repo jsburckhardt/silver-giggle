@@ -1,8 +1,8 @@
 ---
-name: Tracking issue
+name: Issue
 about: Use this template for tracking new features.
-title: "[DATE]: [FEATURE NAME]"
-labels: tracking issue, needs triage
+title: "[FEATURE NAME]"
+labels: bug, documentation
 assignees: jsburckhardt
 milestone: somethingfun
 ---
